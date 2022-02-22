@@ -1,4 +1,4 @@
-# rikiandmorty
+# rikiandmorty  http://worldproducts.ru/
 
 Usage
 Install dependencies:
